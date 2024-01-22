@@ -1,4 +1,6 @@
-public class Main {
+package delivery;
+
+public class task_04 {
     public static void a(int a) {
         if (a >= 0) {
             System.out.println("True");

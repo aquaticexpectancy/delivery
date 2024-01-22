@@ -1,10 +1,10 @@
-public class Main1 {
+public class task_10_long {
     public static void check(boolean a) {
 
 
-        if (a == true) {
+        if (a != false) {
             System.out.println("True");
-        } else if (a == false) {
+        } else {
             System.out.println("False");
         }
     }

@@ -1,6 +1,8 @@
+package delivery;
+
 import java.util.Objects;
 
-public class Main {
+public class task_07 {
     public static void a(String test) {
         String a = "test";
         if (Objects.equals(a, test)) {

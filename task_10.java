@@ -1,8 +1,8 @@
-public class task_09_short {
+public class task_10 {
     public static void check(boolean a) {
 
 
-        if (a) {
+        if (!a) {
             System.out.println("True");
         } else {
             System.out.println("False");

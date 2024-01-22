@@ -1,4 +1,6 @@
-public class Main {
+package delivery;
+
+public class task_08 {
     public static void check(Object a) {
         if ("1".equals(String.valueOf(a))) {
             System.out.println("True");
